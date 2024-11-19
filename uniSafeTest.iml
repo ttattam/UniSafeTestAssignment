@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$">
+      <!-- Основная папка с исходным кодом -->
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <!-- Папка с тестами -->
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <!-- Папка с ресурсами для основного кода (если есть) -->
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <!-- Папка с ресурсами для тестов (если есть) -->
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <!-- Исключаем папку target -->
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+  </component>
+</module>
